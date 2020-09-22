@@ -36,4 +36,4 @@ Key takeaway from this assignment:
 	*	This assignment taught me a lot about the various memory allocation algorithms a computer uses.
 	*	Deciding on a minimal book keeping structure was another learning experience.
 	*	I initially planned to use pointers that point to the blocks of memory and to the next book keeping structure.
-	*	But I realised that it would be a waste of memory as incrementing the pointer by the size of the block would automatically take it to the next book 	keeping structure.
+	*	But I realised that it would be a waste of memory as incrementing the pointer by the size of the block would automatically take it to the next book keeping structure.
